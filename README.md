@@ -24,6 +24,8 @@ Bibtex:
 }
 ```
 
+[->Link to paper](https://arxiv.org/abs/2408.12183)
+
 ## Links to related repositories
 
 - [Repository containing all benchmark instances](https://github.com/phil85/benchmark-instances-for-qkp)
